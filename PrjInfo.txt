@@ -1,0 +1,17 @@
+﻿//
+// Toto je popisný soubor pro popis obsahu adresáře (příklad)
+//
+
+[InfoShortDescription.en]
+  Photo sliding roller
+
+[InfoShortDescription.cs]
+  Fotografická jízda
+  
+[InfoLongDescription.en]
+  Automatic photographic roller for timelapse capture.
+
+[InfoLongDescription.cs]
+  Vozík pro posuv fotoaparátu při snímání časosběrů v pohybu.
+
+[End]
